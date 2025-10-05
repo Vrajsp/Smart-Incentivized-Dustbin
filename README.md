@@ -40,30 +40,6 @@ The **Smart Incentivized Dustbin** is an IoT-based waste management system desig
 
 ---
 
-## Folder Structure
-
-Smart-Incentivized-Dustbin/
-│
-├─ Code/
-│ ├─ main.ino
-│ └─ libraries/
-│
-├─ Dashboard/
-│ ├─ index.html
-│ ├─ script.js
-│ └─ style.css
-│
-├─ Documentation/
-│ ├─ Wiring_Diagram.pdf
-│ ├─ User_Manual.pdf
-│ └─ Component_List.pdf
-│
-├─ README.md
-└─ LICENSE (optional)
-
-
----
-
 ## Setup Instructions
 
 1. **Hardware Assembly**
